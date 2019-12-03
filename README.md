@@ -1,6 +1,12 @@
 # ros2-ev3dev
 ROS2 nodes on the ev3dev OS on Lego Mindstorm robotic kit
 
+## Requirement
+
+Be sure to communicate properly with the Lego robot. See this [tutorial](https://youtu.be/TNXqizQTZhs) from Nigel Ward .
+
+## Steps
+
 In order to run ROS2 programs on the Lego Mindstorm kit, there are many steps to achieve:
 
 1. Install [Docker CE](http://www.docker.com/products/docker-desktop) on your host machine
