@@ -1,12 +1,12 @@
 # ros2-ev3dev
 ROS2 nodes on the ev3dev OS on Lego Mindstorms robotic kit
 
-## Requirement
+## Requirements
 
 - Be sure to communicate properly with the Lego robot. See this [tutorial](https://youtu.be/TNXqizQTZhs) from Nigel Ward .
 - On ev3dev: `apt install python3-pip` .
 
-## Steps
+## Install macro-steps
 
 In order to run ROS2 programs on the Lego Mindstorms kit, there are many steps to achieve:
 
